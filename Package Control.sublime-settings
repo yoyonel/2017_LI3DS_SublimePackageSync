@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"Anaconda",
+		"Arduino-like IDE",
+		"BracketHighlighter",
+		"CMake",
+		"CTags",
+		"GitGutter",
+		"GitSavvy",
+		"GitStatusBar",
+		"Package Control",
+		"Package Syncing",
+		"requirementstxt",
+		"Restart",
+		"SideBarEnhancements",
+		"SyncedSideBar",
+		"SyncedSidebarBg"
+	]
+}

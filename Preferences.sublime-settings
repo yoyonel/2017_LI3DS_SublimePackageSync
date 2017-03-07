@@ -1,0 +1,9 @@
+{
+	"font_size": 15,
+	"http_proxy": "proxy.ign.fr:3128",
+	"https_proxy": "proxy.ign.fr:3128",
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}
