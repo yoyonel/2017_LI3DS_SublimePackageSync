@@ -11,6 +11,7 @@
 		"BracketHighlighter",
 		"CMake",
 		"CTags",
+		"Dockerfile Syntax Highlighting",
 		"GitGutter",
 		"GitSavvy",
 		"GitStatusBar",
